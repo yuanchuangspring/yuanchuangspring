@@ -1,6 +1,5 @@
+![](https://github.com/yuanchuangspring/yuanchuangspring/blob/main/20241118_151240.jpg)
 ## Hi there 👋 I'm TheStudent
-
-**yuanchuangspring/yuanchuangspring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
